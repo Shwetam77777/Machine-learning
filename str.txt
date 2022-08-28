@@ -1,0 +1,5 @@
+string="shweta"
+s=set(string)
+l=list(s)
+l.sort()
+print(l)
